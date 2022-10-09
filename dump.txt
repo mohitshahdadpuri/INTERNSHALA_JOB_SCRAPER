@@ -1,4 +1,0 @@
-'class_=internship_meta'
-'class=individual_internship_header'
-'class=company'
-'class=heading_4_5 profile'
